@@ -5,3 +5,6 @@
 I have changed the file by adding in some content using hashtags to create headers of different sizes. 
 
 ![Image of CampaignFringe](https://github.com/user-attachments/assets/cb19ed6e-1200-448c-ab6e-7f1237f336f8)
+
+``` javascript
+var myVar = "Hello, world!"
