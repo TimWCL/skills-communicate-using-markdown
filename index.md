@@ -8,3 +8,13 @@ I have changed the file by adding in some content using hashtags to create heade
 
 ``` javascript
 var myVar = "Hello, world!"
+```
+
+
+- [ ] Turn on github pages
+- [ ] outline my portfolio
+- [ ] introduce myself to the world
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
